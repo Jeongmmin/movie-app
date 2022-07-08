@@ -1,0 +1,15 @@
+/* button {
+  color: white;
+  background-color: rgb(54, 111, 210);
+  border: none;
+} */
+/* 위와 같이 하면 모든 버튼의 색이 똑같이 된다. 우리는 그것을 원하지 않는다.
+  모듈 설치해 보기
+*/
+
+.btn {
+  color: white;
+  background-color: rgb(54, 111, 210);
+  border: none;
+}
+/* index에 import 하지 않고, button에 해줄 것이다. */
